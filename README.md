@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21695663/README.md)
 # TON Games Bot (Telegram WebApp) — v0.1 (RPS ready)
 
 Готовый к запуску каркас игрового приложения:

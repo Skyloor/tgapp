@@ -1,0 +1,7 @@
+{
+  "network": "testnet",
+  "deployer": {
+    "mnemonic": "PUT YOUR 24 WORDS IN LOCAL ENV, DO NOT COMMIT",
+    "workchain": 0
+  }
+}
