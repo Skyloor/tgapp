@@ -1,0 +1,16 @@
+{
+  "name": "ton-games-contracts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "tact compile Escrow.tact",
+    "deploy": "node scripts/deploy.js"
+  },
+  "dependencies": {
+    "@ton/core": "^0.56.3",
+    "@ton/crypto": "^3.2.0"
+  },
+  "devDependencies": {
+    "@tact-lang/cli": "^1.5.0"
+  }
+}
